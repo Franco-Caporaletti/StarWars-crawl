@@ -3,7 +3,7 @@
 This is a simple HTML, CSS and Javascript project in which I imitate the famous star wars opening with content about me.
 
 # Demo
-https://elated-hopper-8c3e89.netlify.app/
+https://franco-caporaletti.github.io/StarWars-crawl/
 
 # Screenshots
 
